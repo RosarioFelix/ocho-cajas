@@ -1,0 +1,19 @@
+
+.cuadrado{
+  background: pink;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+
+.contenedor-cuadrado{
+  width: 240px;
+  height: auto;
+  /*padding: 3.5px 0px 0px 7px;*/
+  margin-top: 14px;
+  background: yellow;
+}
+
+.inline-block{
+  display: inline-block;
+}
